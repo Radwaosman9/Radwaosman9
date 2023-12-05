@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radwaosman9&label=Profile%20views&color=0e75b6&style=flat" alt="radwaosman9" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Radwaosman9](https://github.com/Radwaosman9)
 
